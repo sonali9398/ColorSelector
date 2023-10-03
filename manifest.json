@@ -1,0 +1,15 @@
+
+{
+    "manifest_version": 3,
+    "name": "Color Selector",
+    "description": "A simple Color Selector extension. Easily pick any color on the screen, view a history of selected colors, and copy or clear them with a single click.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons":{
+        "16":"icons/wheel16.png",
+        "24":"icons/wheel24.png",
+        "32":"icons/wheel32.png"
+    }
+}
